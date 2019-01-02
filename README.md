@@ -43,6 +43,8 @@ This ensures that when Cassandra pods are re-provisioned, the data is not lost.
            +----------+
 ```
 
+Following this exploration of Google Kubernetes Engine, I repeated the same exercise on Amazon ECS for Kubernetes (AWS EKS) and captured [notes on this experience](aws-eks-notes.md).
+
 ## Some great resources for getting started
 * [The Illustrated Children's Guide to Kubernetes](https://www.youtube.com/watch?v=4ht22ReBjno)
 * [A Cloud Guru - Kubernetes Deep Dive](https://acloud.guru/learn/kubernetes-deep-dive)
